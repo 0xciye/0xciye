@@ -2,9 +2,13 @@
 
 I'm **CiyE**, or **Hoàng Anh** — a Computer Science student from Vietnam who enjoys building things and figuring out how they work.
 
+This is a fresh profile where I share my projects, experiments, and things I'm currently working on. **Everything here is built from scratch — no copy-paste.**
+
 ## Interests
 
 **Software Engineering** · **Systems Programming** · **Reverse Engineering** · **AI / Computer Vision**
+
+I mostly work on reverse engineering — analyzing binaries and files, reading assembly, understanding how software works under the hood, and experimenting with modifications.
 
 ## Languages
 
