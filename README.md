@@ -1,72 +1,66 @@
 # `0xCiyE`
 
-```text
-┌──(ciye㉿github)-[~]
-└─$ whoami
+```console
+$ whoami
 
 Hoàng Anh
-Computer Science student · Vietnam
-
-┌──(ciye㉿github)-[~]
-└─$ cat interests.txt
-
-Software Engineering
-Systems Programming
-Reverse Engineering
-AI / Computer Vision
-
-┌──(ciye㉿github)-[~]
-└─$ cat languages.txt
-
-Rust · C++ · C# · Python
-
-┌──(ciye㉿github)-[~]
-└─$ ls tools/
-
-IDA Pro
-x64dbg
-Ghidra
-Detect It Easy
-Wireshark
+CS student · developer · curious human
+Based in Vietnam
 ```
 
-### `about_me`
+I build things from scratch—and take them apart when I want to understand them better.
 
-I enjoy building things from scratch and understanding how they work under the hood.
+What interests me most is not only whether something works, but **why it works, how its layers connect, and what is really happening underneath the abstraction**.
 
-Most of my work revolves around **reverse engineering** — analyzing binaries, reading assembly, understanding software internals, and experimenting with how things work.
+## `about`
 
-Outside of code:
-
-* 🏍️ Riding and working on my bike
-* 🐕 Dogs
-* 🔍 Taking things apart just to understand them
-
-### `currently`
+Most software is experienced from the surface. I like following it in the opposite direction:
 
 ```text
-[+] Learning
-    ├── Rust
-    ├── Systems Programming
-    └── Reverse Engineering
-
-[+] Building
-    ├── Software
-    ├── Experiments
-    └── Tools
-
-[+] Exploring
-    ├── AI / Computer Vision
-    └── Low-level internals
+idea → source code → compiler → binary → assembly → machine
 ```
+
+That curiosity pulls me toward systems programming, reverse engineering, and the boundary between software and the machine running it.
+
+To me, reverse engineering is more than analyzing binaries. It is a way of learning: form a hypothesis, inspect the evidence, test the model, and keep digging until the behavior makes sense.
+
+## `what_i_explore`
+
+- **Software & systems** — understanding how abstractions are built and where they break
+- **Reverse engineering** — tracing behavior from binaries back to intent
+- **AI & computer vision** — teaching machines to extract meaning from complex data
+- **Low-level problem solving** — connecting source code, memory, assembly, and runtime behavior
+
+## `toolbox`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Understand how it works.                 │
-│   Build something better.                  │
-│                                             │
-└─────────────────────────────────────────────┘
+languages  rust · cpp · csharp · python
+
+re / debug ida · x64dbg · ghidra · die
+network    wireshark
 ```
 
-<sub>© CiyE · Built from scratch.</sub>
+Tools change. The habit stays the same: observe carefully, question assumptions, and understand the system before changing it.
+
+## `outside_the_terminal`
+
+`🏋️ gym` · `🏍️ riding` · `🐕 dogs` · `🔍 taking things apart`
+
+Different activities, same instinct: test limits, stay curious, and learn through direct experience.
+
+## `loop`
+
+```text
+$ echo "keep learning"
+
+Understand.
+Experiment.
+Build.
+Break.
+Learn.
+Repeat.
+```
+
+> “How does this work?” is usually more interesting than “Does this work?”
+
+<sub>0xCiyE · Vietnam</sub>
