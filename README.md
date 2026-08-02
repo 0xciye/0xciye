@@ -1,27 +1,72 @@
-# Hi there 👋
+# `0xCiyE`
 
-I'm **CiyE**, or **Hoàng Anh** — a Computer Science student from Vietnam who enjoys building things and figuring out how they work.
+```text
+┌──(ciye㉿github)-[~]
+└─$ whoami
 
-This is a fresh profile where I share my projects, experiments, and things I'm currently working on. **Everything here is built from scratch — no copy-paste.**
+Hoàng Anh
+Computer Science student · Vietnam
 
-## Interests
+┌──(ciye㉿github)-[~]
+└─$ cat interests.txt
 
-**Software Engineering** · **Systems Programming** · **Reverse Engineering** · **AI / Computer Vision**
+Software Engineering
+Systems Programming
+Reverse Engineering
+AI / Computer Vision
 
-I mostly work on reverse engineering — analyzing binaries and files, reading assembly, understanding how software works under the hood, and experimenting with modifications.
+┌──(ciye㉿github)-[~]
+└─$ cat languages.txt
 
-## Languages
+Rust · C++ · C# · Python
 
-`Rust` · `C++` · `C#` · `Python`
+┌──(ciye㉿github)-[~]
+└─$ ls tools/
 
-## Tools & Technologies
+IDA Pro
+x64dbg
+Ghidra
+Detect It Easy
+Wireshark
+```
 
-`IDA Pro` · `x64dbg` · `Ghidra` · `Detect It Easy` · `Wireshark`
+### `about_me`
 
-## A Bit About Me
+I enjoy building things from scratch and understanding how they work under the hood.
 
-* 🏍️ I enjoy riding and working on my bike.
-* 🐕 I love dogs.
-* 🔍 I like taking things apart, understanding how they work, and figuring out what makes them tick — whether I'm working or playing.
+Most of my work revolves around **reverse engineering** — analyzing binaries, reading assembly, understanding software internals, and experimenting with how things work.
 
-> **Understand how it works. Build something better.**
+Outside of code:
+
+* 🏍️ Riding and working on my bike
+* 🐕 Dogs
+* 🔍 Taking things apart just to understand them
+
+### `currently`
+
+```text
+[+] Learning
+    ├── Rust
+    ├── Systems Programming
+    └── Reverse Engineering
+
+[+] Building
+    ├── Software
+    ├── Experiments
+    └── Tools
+
+[+] Exploring
+    ├── AI / Computer Vision
+    └── Low-level internals
+```
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   Understand how it works.                 │
+│   Build something better.                  │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+<sub>© CiyE · Built from scratch.</sub>
