@@ -14,8 +14,16 @@ I build software, explore systems, and take things apart to understand how they 
 $ cat stack.txt
 
 interests   systems · reverse engineering · ai · computer vision
-languages   rust · cpp · csharp · python · c
+languages   rust · c++ · c# · python · c
 tools       ida · x64dbg · ghidra · die · wireshark
+```
+
+```text
+$ status
+
+focus       low-level systems · binary analysis · computer vision
+exploring   rust · android internals · intelligent systems
+building    small tools that solve real problems
 ```
 
 Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
