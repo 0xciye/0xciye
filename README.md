@@ -26,6 +26,14 @@ exploring   rust · android internals · intelligent systems
 building    small tools that solve real problems
 ```
 
+```text
+$ ls projects/ --sort=recent
+```
+
+<!-- PROJECTS:START -->
+- **[Zygisk-Il2CppDumper](https://github.com/0xciye/Zygisk-Il2CppDumper)** — Using Zygisk to dump il2cpp data at runtime · `C` · `fork`
+<!-- PROJECTS:END -->
+
 Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
 
 ```text
