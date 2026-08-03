@@ -4,7 +4,7 @@
 $ whoami
 
 Hoàng Anh
-CS student · developer · curious human
+IT student · developer · curious human
 Vietnam
 ```
 
