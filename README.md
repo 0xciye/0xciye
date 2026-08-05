@@ -31,6 +31,7 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
+- **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
 - **[Zygisk-Il2CppDumper](https://github.com/0xciye/Zygisk-Il2CppDumper)** — Using Zygisk to dump il2cpp data at runtime · `C` · `fork`
 <!-- PROJECTS:END -->
 
