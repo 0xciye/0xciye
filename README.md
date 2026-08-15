@@ -42,11 +42,7 @@ Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
 $ github --stats
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xciye&theme=transparent&hide_border=true)](https://github.com/0xciye)
-
-![GitHub followers](https://img.shields.io/github/followers/0xciye?style=flat-square&logo=github&label=followers)
-![Profile views](https://komarev.com/ghpvc/?username=0xciye&style=flat-square&label=profile+views)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xciye&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xciye&layout=compact&hide_border=true&theme=transparent" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=0xciye&theme=transparent&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/0xciye?style=flat-square&logo=github&label=followers" /> <img src="https://komarev.com/ghpvc/?username=0xciye&style=flat-square&label=profile+views" /> </p>
 ```text
 Understand. Experiment. Build. Repeat.
 ```
