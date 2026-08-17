@@ -31,7 +31,7 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
-- **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess Helper designed for Chess.com · `Python`
+- **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
 - **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
 - **[build-your-own-x](https://github.com/0xciye/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch. · `Mixed` · `fork`
 <!-- PROJECTS:END -->
