@@ -31,9 +31,9 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
+- **[hpnet-vbdlis-aio-tool](https://github.com/0xciye/hpnet-vbdlis-aio-tool)** — Source code cho launcher tích hợp các phần mềm hỗ trợ tự động phục vụ cho VBDLIS và HPNet · `Python`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
 - **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
-- **[build-your-own-x](https://github.com/0xciye/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch. · `Mixed` · `fork`
 <!-- PROJECTS:END -->
 
 Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
