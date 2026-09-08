@@ -31,8 +31,8 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
-- **[powerfile](https://github.com/0xciye/powerfile)** · `Swift`
 - **[hpnet-vbdlis-aio-tool](https://github.com/0xciye/hpnet-vbdlis-aio-tool)** — Source code cho launcher tích hợp các phần mềm hỗ trợ tự động phục vụ cho VBDLIS và HPNet · `Python`
+- **[powerfile](https://github.com/0xciye/powerfile)** · `Swift`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
 <!-- PROJECTS:END -->
 
