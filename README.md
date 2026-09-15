@@ -31,8 +31,8 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
-- **[ContainerLoading](https://github.com/0xciye/ContainerLoading)** — Android 3D container loading planner with PDF management reports · `Python`
 - **[hpnet-vbdlis-aio-tool](https://github.com/0xciye/hpnet-vbdlis-aio-tool)** — Source code cho launcher tích hợp các phần mềm hỗ trợ tự động phục vụ cho VBDLIS và HPNet · `Python`
+- **[ContainerLoading](https://github.com/0xciye/ContainerLoading)** — Android 3D container loading planner with PDF management reports · `Python`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
 <!-- PROJECTS:END -->
 
