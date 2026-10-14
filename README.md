@@ -31,7 +31,7 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
-- **[ContainerLoading](https://github.com/0xciye/ContainerLoading)** — Android 3D container loading planner with PDF management reports · `Python`
+- **[frameforge](https://github.com/0xciye/frameforge)** — Local-first desktop tool for video-to-YOLO dataset preparation. · `Python`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
 - **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
 <!-- PROJECTS:END -->
