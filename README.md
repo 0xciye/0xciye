@@ -31,9 +31,9 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
+- **[20-10-hoa](https://github.com/0xciye/20-10-hoa)** — Khu vườn lời chúc dành cho ngày 20/10 · `HTML`
 - **[frameforge](https://github.com/0xciye/frameforge)** — Local-first desktop tool for video-to-YOLO dataset preparation. · `Python`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
-- **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
 <!-- PROJECTS:END -->
 
 Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
