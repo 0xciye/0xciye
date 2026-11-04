@@ -31,9 +31,9 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
+- **[GGD](https://github.com/0xciye/GGD)** — Windows x64 internal source and loader with build instructions and regression tests · `C++`
 - **[frameforge](https://github.com/0xciye/frameforge)** — Local-first desktop tool for video-to-YOLO dataset preparation. · `Python`
 - **[chess-helper](https://github.com/0xciye/chess-helper)** — A Chess helper designed for Chess.com · `Python`
-- **[beyond-borders-bot](https://github.com/0xciye/beyond-borders-bot)** · `TypeScript`
 <!-- PROJECTS:END -->
 
 Outside the terminal: `🏋️ gym` · `🏍️ riding` · `🐕 dogs`
