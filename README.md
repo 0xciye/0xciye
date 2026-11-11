@@ -31,8 +31,8 @@ $ ls projects/ --sort=recent
 ```
 
 <!-- PROJECTS:START -->
-- **[Il2CppDumper-GUI-AoV](https://github.com/0xciye/Il2CppDumper-GUI-AoV)** — IL2Cpp Dumper for AOV · `C#`
 - **[bs34](https://github.com/0xciye/bs34)** — BloodStrike Cheat source code with ESP, Aimbot, Silent Aim, Skin Changer · `C++`
+- **[Il2CppDumper-GUI-AoV](https://github.com/0xciye/Il2CppDumper-GUI-AoV)** — IL2Cpp Dumper for AOV · `C#`
 - **[GGD](https://github.com/0xciye/GGD)** — GGD Cheat source code with EAC Bypass · `C++`
 <!-- PROJECTS:END -->
 
